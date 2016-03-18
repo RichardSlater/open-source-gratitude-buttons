@@ -24,25 +24,25 @@ I currently only support [Gratipay][90ed3154] and [Flattr][e2eed536] as these ar
   [48aae250]: https://en.wikipedia.org/wiki/Scalable_Vector_Graphics "Scalable Vector Graphics"
   [531197f4]: http://caniuse.com/#search=SVG "Can I Use: SVG"
 
-[![Support via Gratipay](icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
+[![Support via Gratipay](https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
 
 __Markdown__
 
-    [![Support via Gratipay](icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
+    [![Support via Gratipay](https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
 
 __HTML__
 
-    <a href="https://gratipay.com/~RichardSlater/"><img src="icons\en-GB\support-via-gratipay.svg" alt="Support via Gratipay"></a>
+    <a href="https://gratipay.com/~RichardSlater/"><img src="https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg" alt="Support via Gratipay"></a>
 
-[![Support via Flattr](icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+[![Support via Flattr](https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __Markdown__
 
-    [![Support via Flattr](icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+    [![Support via Flattr](https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __HTML__
 
-    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="icons\en-GB\support-via-flattr.svg" alt="Support via Flattr" /></a>
+    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="https://raw.githubusercontent.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/icons/en-GB/support-via-flattr.svg" alt="Support via Flattr" /></a>
 
 ## Portable Network Graphics
 
