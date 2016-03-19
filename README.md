@@ -24,25 +24,25 @@ I currently only support [Gratipay][90ed3154] and [Flattr][e2eed536] as these ar
   [48aae250]: https://en.wikipedia.org/wiki/Scalable_Vector_Graphics "Scalable Vector Graphics"
   [531197f4]: http://caniuse.com/#search=SVG "Can I Use: SVG"
 
-[![Support via Gratipay](https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
+[![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
 
 __Markdown__
 
-    [![Support via Gratipay](https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
+    [![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay.svg)](https://gratipay.com/~RichardSlater/)
 
 __HTML__
 
-    <a href="https://gratipay.com/~RichardSlater/"><img src="https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-gratipay.svg" alt="Support via Gratipay"></a>
+    <a href="https://gratipay.com/~RichardSlater/"><img src="https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay.svg" alt="Support via Gratipay"></a>
 
-[![Support via Flattr](https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+[![Support via Flattr](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __Markdown__
 
-    [![Support via Flattr](https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+    [![Support via Flattr](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr.svg)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __HTML__
 
-    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="https://rawgit.com/RichardSlater/open-source-gratitude-buttons/master/icons/en-GB/support-via-flattr.svg" alt="Support via Flattr" /></a>
+    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr.svg" alt="Support via Flattr" /></a>
 
 ## Portable Network Graphics
 
@@ -50,35 +50,35 @@ __HTML__
 
   [b49c66cf]: https://en.wikipedia.org/wiki/Portable_Network_Graphics "Portable Network Graphics (PNGs) Wikipedia Article"
 
-[![Support via Gratipay](icons/en-GB/support-via-gratipay-49px.png)](https://gratipay.com/~RichardSlater/)
+[![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay-49px.png)](https://gratipay.com/~RichardSlater/)
 
 __Markdown__
 
-    [![Support via Gratipay](icons/en-GB/support-via-gratipay-49px.svg)](https://gratipay.com/~RichardSlater/)
+    [![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay-49px.svg)](https://gratipay.com/~RichardSlater/)
 
 __HTML__
 
     <a href="https://gratipay.com/~RichardSlater/"><img src="icons\en-GB\support-via-gratipay-49px.png" alt="Support via Gratipay"></a>
 
-[![Support via Flattr](icons/en-GB/support-via-flattr-49px.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+[![Support via Flattr](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr-49px.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __Markdown__
 
-    [![Support via Flattr](icons/en-GB/support-via-flattr-49px.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
+    [![Support via Flattr](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr-49px.png)](https://flattr.com/submit/auto?user_id=RichardSlater&url=http://github.com/RichardSlater/open-source-gratitude-buttons&title=Open%20Source%20Gratitude%20Buttons&language=en_GB&tags=github&category=software)
 
 __HTML__
 
-    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="icons\en-GB\support-via-flattr-49px.png" alt="Support via Flattr" /></a>
+    <a href="https://flattr.com/submit/auto?user_id=RichardSlater&amp;url=http://github.com/RichardSlater/open-source-gratitude-buttons&amp;title=Open%20Source%20Gratitude%20Buttons&amp;language=en_GB&amp;tags=github&amp;category=software"><img src="https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-flattr-49px.png" alt="Support via Flattr" /></a>
 
 ### Super-size Buttons
 
 If you want really big buttons, then you can use the double size icons to really stand out.
 
-[![Support via Gratipay](icons/en-GB/support-via-gratipay-98px.png)](https://gratipay.com/~RichardSlater/)
+[![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay-98px.png)](https://gratipay.com/~RichardSlater/)
 
 __Markdown__
 
-    [![Support via Gratipay](icons/en-GB/support-via-gratipay-98px.svg)](https://gratipay.com/~RichardSlater/)
+    [![Support via Gratipay](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/icons/en-GB/support-via-gratipay-98px.png)](https://gratipay.com/~RichardSlater/)
 
 __HTML__
 
@@ -113,11 +113,11 @@ To complete this guide you will need to [download Inkscape](https://inkscape.org
 
 A very basic template is available in the `/icons` folder named `original-template.svg` this provides the correct dimensions and background colour to base all buttons from.  First load this template in Inkscape and enable guides by pressing <kbd>shift</kbd><kbd>|</kbd> (Shift and the Pipe Character).
 
-![Figure 1.](assets/README-figure1.png)
+![Figure 1.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure1.png)
 
 With the guides enabled you can see the image is broken down into several regions:
 
-![Figure 2.](assets/README-figure2.png)
+![Figure 2.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure2.png)
 
  - __Red Zone__: the padding around the outside of the button allows the content of the button to "breathe", this is a no-go zone for anything except the button background and the long shadow.
  - __Yellow Zone__: the icon, this should be a pure white version of the icon if at all possible.  If the terms of use stipulate that colour must be used then we must comply.
@@ -129,7 +129,7 @@ With the guides enabled you can see the image is broken down into several region
 
 Ideally we would stick to a pure white (`#FFFFFF`) images, however if the terms of use of a particular service prevent us from removing colour from a logo then we must comply with these requirements.  Images included within the files must be vector images, it is often possible to find SVG versions of logos through media kits or Wikipedia.  Not all logos will fit in within the allocated space however attempt to fit the logo to the height of the Yellow Zone:
 
-![Figure 3.](assets/README-figure3.png)
+![Figure 3.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure3.png)
 
 Once you are comfortable with the position of the logo you can ungroup the object with <kbd>Ctrl</kbd><kbd>U</kbd> and unify it into a single path with <kbd>Ctrl</kbd><kbd>+</kbd>.
 
@@ -142,7 +142,7 @@ This is because certain letters such as `y`, `g` and `q` have portions of the le
   [c8635de8]: http://www.typographydeconstructed.com/ascender/ "Typography Deconstructed: Ascender"
   [8483dcb7]: http://www.typographydeconstructed.com/descender/ "Typography Deconstructed: Descender"
 
-![Figure 4.](assets/README-figure4.svg)
+![Figure 4.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure4.svg)
 
 You may be wondering if this is the case how can we possibly know how to center our text vertically, well actually it is relativly simple:
 
@@ -154,7 +154,7 @@ You may be wondering if this is the case how can we possibly know how to center 
 
   [33ba52ab]: http://www.typographydeconstructed.com/x-height/ "Typography Deconstructed: X-Height"
 
-![Figure 5.](assets/README-figure5.gif)    
+![Figure 5.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure5.gif)    
 
 #### __Step 4:__ Create Long Shadow
 
@@ -163,18 +163,18 @@ Long shadow is relativly easy to create using Inkscape, you will need to convert
  1. Select your newly combined single object, then from the "Extensions" menu select "Generate From Path..." and choose "Motion...".
  2. The magnitude value should be somewhere in the region of `55` and the angle should be `45`, click "Apply" when you are done.
 
-  ![Figure 6.](assets/README-figure6.png)
+  ![Figure 6.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure6.png)
 
  3. Once the Motion extension has completed you will end up with a white long shadow, ungroup this object (<kbd>Ctrl></kbd><kbd>U</kbd>), then select the larger of the two objects.
  4. This object is actually a group of objects, so again ungroup everything (<kbd>Ctrl</kbd><kbd>U</kbd>) and union all objects into a single path (<kbd>Ctrl</kbd><kbd>+</kbd>).
  5. Change the fill of this object to a gradient fill and adjust the gradient so that it runs from pure black (`#000000`) at the top to transparent at the bottom, finally set this object to an opacity value of 15.
 
-  ![Figure 7.](assets/README-figure7.png)
+  ![Figure 7.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure7.png)
 
  6. Tidy up the image by duplicating the background by selecting it then pressing <kbd>Ctrl</kbd><kbd>D</kbd>.
  7. Shift select the long shadow object so that both the duplicated background at the long shadow are selected then select "Path" and "Intersection" or <kbd>Ctrl</kbd><kbd>\*</kbd>.  This will trim the long shadow to the bounds of the button removing any unnesscary parts of the path.
 
- ![Figure 8.](assets/README-figure8.gif)
+ ![Figure 8.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure8.gif)
 
 #### __Step 5:__ Finishing Up
 
@@ -189,7 +189,7 @@ Your button should look great now, thanks for putting in all of the hard work.  
  3. Save a **Optimized SVG** copy of the image in the `/icons/<lang>` folder that is appropiate for the language of your button, most buttons are going to be in English so go ahead and save a copy in the `/icons/en-GB` folder.
  4. Export your button using <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>E</kbd>, ensure you choose to export the "Drawing" with an Image Size of 203px by 49px  
 
-  ![Figure 9.](assets/README-figure9.png)
+  ![Figure 9.](https://cdn.rawgit.com/RichardSlater/open-source-gratitude-buttons/1.0.0/assets/README-figure9.png)
 
  5. Repeat step 4 above however with an Image Size of 406px by 98px, this will be the super size button.
  6. Use a tool such as PNG Gauntlet to optimize both of the exported image, this will typically save 25-30% for each image.
